@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  thoughts
+
+  Created by aisha rashid alshammari  on 08/06/1445 AH.
+  
+*/
+
+"Raheeb provides questions that help you explore and understand the roots of negative thoughts in your mind. Join us on the journey of improving your thinking and changing negativity into positivity, to achieve a happier and more balanced life." = "رحيب يقدم أسئلة تساعدك في استكشاف وفهم جذور الأفكار السلبية في ذهنك. انضم إلينا في رحلة تحسين تفكيرك وتغيير السلبية إلى إيجابية، لتحقيق حياة أكثر سعادة وتوازنًا.";
+
+"start" = "ابدا";
+"Add what you have inside" =  "اضف ما بداخلك";
+"My thoughts" = "افكاري";
+"add your thoughts" = "اضف الفكره";
+"thought title" = "عنوان الفكره";
+"cancele" = "الغاء";
+"save"= "حفظ";
+"record"="سجل";
+"stop recording"="ايقاف";
+"What happened to make me think this way?"="ما الذي حدث ليجعلني أفكر بهذا التفكير؟
+";
+"how do you feel today?"="كيف تشعر اليوم؟
+";
+"What was my reaction?"="ماذا كان ردت فعلي؟
+";
+
+"What makes me think this thought is true?"="ما الذي يجعلني أعتقد أن هذا الفكر صحيح؟
+";
+
+"Is there any evidence to suggest that this idea is incorrect?"="هل توجد أي أدلة تشير إلى أن هذه الفكرة غير صحيحة؟";
+
+"If this idea is correct, what supports the validity of this idea?"="اذا كانت هذه الفكره صحيحه ما الذي يدعم صحه هذا الفكرة ؟
+";
+"Balanced idea"="الفكرة المتوازنه";
